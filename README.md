@@ -1,7 +1,8 @@
 ## Congratulations!
 
 You now have a Project that you cloned from the Koji Template Store, and are ready to make it your own. Your project is staged in the cloud (on Amazon EC2 in a Docker Container), and is ready to be deployed at anytime with the click of a button (see “Deploy Project” link at the top left)... **but don’t do that just yet.**
-## **Readme.md**
+
+## Readme.md
 
 This file is a readme markdown file. You may actually see the markdown code, by clicking on the “code” tab at the top:
 
@@ -32,12 +33,15 @@ There is a Preview window embedded on the right that allows you to preview your 
   <source src="https://giant.gfycat.com/RightBrownIberiannase.webm" type="video/webm">
 </video>
 
-**More Preview Controls**
-- Click on the Embedded preview Dropdown, and you will see a QR code that you can scan with your phone to get the live preview on your device. 
-- You will also be able to see the logs from your mobile device once it is connected. Clicking on the Embedded preview again will take you back to the default view. 
-- The eye icon slides out a console where you can see logs, errors, etc. It shows the same info as in the Chrome Dev Tools Console. 
-- If you want to get access to the actual Chrome Dev Tools Console, simply right-click on the preview window, and choose Inspect. 
-- The box arrow icon opens up a new tab so you can load the preview in full screen.
+Click on the Embedded preview Dropdown, and you will see a QR code that you can scan with your phone to get the live preview on your device. You will also be able to see the logs from your mobile device once it is connected. Clicking on the Embedded preview again will take you back to the default view. 
+
+<video width="480" autoplay loop>
+  <source src="https://giant.gfycat.com/WindyDrearyAxisdeer.webm" type="video/webm">
+</video>
+
+The eye icon slides out a console where you can see logs, errors, etc. It shows the same info as in the Chrome Dev Tools Console. If you want to get access to the actual Chrome Dev Tools Console, simply right-click on the preview window, and choose Inspect. 
+
+The box arrow icon opens up a new tab so you can load the preview in full screen.
 
 ## File Explorer
 
@@ -82,7 +86,7 @@ The developer of a template can optionally create configuration files that we ca
 At the top right of the Koji editor there is a blue “Collaborate” button. Koji makes it easy for multiple people to work on the same code files simultaneously… just like Google Docs. When you click on the Collaborate button, you can get a link to share with people, and ask them to join your session (note: the link will expire 15 minutes after it is created).
 
 <video width="480px" autoplay loop>
-  <source src="https://giant.gfycat.com/GrotesqueDearestAxisdeer.webm" type="video/webm">
+  <source src="https://giant.gfycat.com/TornAshamedLeech.webm" type="video/webm">
 </video>
 
 Once they click on the link, you will be notified that they want to join, and will need to accept them. During the session, the owner of the project is the only one who can choose what files are worked on (the collaborator cannot open files on their own). Once you are done collaborating, either of you may end the session.
@@ -90,6 +94,10 @@ Once they click on the link, you will be notified that they want to join, and wi
 ## Messaging and Posts
 
 At the top right of the Koji editor, to the left of the Collaborate button, there is a messaging icon. Koji has a built-in instant messenger, similar to Facebook Messenger, so you can easily chat with others on the network.
+
+<video width="480px" autoplay loop>
+  <source src="https://giant.gfycat.com/GrotesqueDearestAxisdeer.webm" type="video/webm">
+</video>
 
 If you have an issue or a request, you may create a “Post”. To view the posts page, go to: https://gokoji.com/posts. Other users of Koji may see your post and reply to it via an instant message to you. This is a good way to ask the community for help if you get stuck on some coding issue. [See video for example](https://youtu.be/0eTLzwVTJUE).
 
