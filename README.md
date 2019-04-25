@@ -1,6 +1,9 @@
-## Congratulations!
+# **Welcome to Koji.**
+
+<h2 style='border-bottom: none'><a target="_blank" href="https://discord.gg/eQuMJF6">Join our Discord Server!</a> There are developers online right now and ready to help you!</h2>
 
 You now have a Project that you cloned from the Koji Template Store, and are ready to make it your own. Your project is staged in the cloud (on Amazon EC2 in a Docker Container), and is ready to be deployed at anytime with the click of a button (see “Deploy Project” link at the top left)... **but don’t do that just yet.**
+   
 
 ## Readme.md
 
